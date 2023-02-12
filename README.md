@@ -5,12 +5,5 @@
 
 
 
-<p align=center>
-  
-   
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>   
-
-</p>
-  
+### GitHub Stats ⭐
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
