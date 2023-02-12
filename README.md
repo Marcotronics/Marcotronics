@@ -3,8 +3,8 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+
 <p align=center>
   <div align=center>
      <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,5 +19,4 @@
 
   
 </p>
-
-<hr>
+  
