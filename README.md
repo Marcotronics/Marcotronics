@@ -5,5 +5,5 @@
 
 
 
-### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+[![Marco Mamani's github stats](https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
