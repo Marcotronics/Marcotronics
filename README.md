@@ -16,7 +16,7 @@ Ask me about anything. I am happy to help.
 - 🛠  &nbsp; I’m currently working on [*Maelpro*](https://www.linkedin.com/company/maelpro/).
 - 🚀 &nbsp; I’m currently learning about HW/SW Codesign using Intel FPGA boards.
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ULnIBOSwtH2sJyfot9Ufn9gmUPfggn4n/view?usp=sharing)
-- 💼 any freelance work? Contact me, [email](mailto:marco.mamani.a@uni.pe)
+- 💼 &nbsp; Any freelance work? Contact me, [email](mailto:marco.mamani.a@uni.pe)
 
 ### Skills 🛠️
 - **Software**: &nbsp;                          Python, C, C++, Hardware Description Language(VHDL), GIT, Linux
@@ -24,7 +24,7 @@ Ask me about anything. I am happy to help.
 
 ### Languages 
 - **English**: &nbsp;                        Upper Intermediate
-- **Spanish**: &nbsp;&nbsp;                  Native
+- **Spanish**: &nbsp;                        Native
 
 ### GitHub Stats
 [![Marco Mamani's github stats](https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
