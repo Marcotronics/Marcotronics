@@ -7,11 +7,9 @@
 - **Software**: &nbsp;                          Python, C, C++, Hardware Description Language(VHDL), GIT, Linux
 - **Hardware**: &nbsp;&nbsp;                    FPGA Altera DE10-Nano and DE10-Lite, ARM microcontrollers, Arduino platform, Raspberry Pi
 
-<table align="right">
-    <tr><td> Languages</a></td></tr>
-    <tr><td><a href="README.md"> English Upper Intermediate </a></td></tr>
-    <tr><td><a href="README_pt.md"> Spanish Native</a></td></tr>
-</table>
+### Languages 🛠️
+- **English**: &nbsp;                        Upper Intermediate
+- **Spanish**: &nbsp;&nbsp;                  Native
 
 ### GitHub Stats
 [![Marco Mamani's github stats](https://github-readme-stats.vercel.app/api?username=Marcotronics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
