@@ -7,7 +7,7 @@
 - **Software**: &nbsp;                          Python, C, C++, Hardware Description Language(VHDL), GIT, Linux
 - **Hardware**: &nbsp;&nbsp;                    FPGA Altera DE10-Nano and DE10-Lite, ARM microcontrollers, Arduino platform, Raspberry Pi
 
-### Languages 🛠️
+### Languages 
 - **English**: &nbsp;                        Upper Intermediate
 - **Spanish**: &nbsp;&nbsp;                  Native
 
