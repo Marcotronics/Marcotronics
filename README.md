@@ -9,14 +9,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Marcotronics.Marcotronics)
 
-### 🧐 More About Me:
+Ask me about anything. I am happy to help.
+
+### More About Me:
 
 - 🛠  &nbsp; I’m currently working on [*Maelpro*](https://www.linkedin.com/company/maelpro/).
 - 🚀 &nbsp; I’m currently learning about HW/SW Codesign using Intel FPGA boards.
-- 💬 &nbsp; Ask me about anything. I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/marcomamani/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ULnIBOSwtH2sJyfot9Ufn9gmUPfggn4n/view?usp=sharing)
-- 📫 &nbsp; How to reach me: marco.mamani.a@uni.pe
 - 💼 any freelance work? Contact me, [email](mailto:marco.mamani.a@uni.pe)
 
 ### Skills 🛠️
